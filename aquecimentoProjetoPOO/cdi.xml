@@ -1,0 +1,11 @@
+<aquecimentoProjetoPOO.CentralDeInformacoes>
+  <todosOsAlunos>
+    <aquecimentoProjetoPOO.Aluno>
+      <nome>matheus</nome>
+      <sexo>MASCULINO</sexo>
+      <matricula>2020</matricula>
+      <email>matheusrafael2005@gmail.com</email>
+      <senha>frugulot123</senha>
+    </aquecimentoProjetoPOO.Aluno>
+  </todosOsAlunos>
+</aquecimentoProjetoPOO.CentralDeInformacoes>
